@@ -1,0 +1,5 @@
+/* this module.css only apply components only not affectiung other components */
+.coloradd{
+    color: brown;
+    background-color: bisque;
+}
